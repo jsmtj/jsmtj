@@ -1,16 +1,15 @@
-## Hi there 👋
+# Justin Steubs
 
-<!--
-**jsmtj/jsmtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Real estate & construction consultant, owner's advisor, author & podcast host.
 
-Here are some ideas to get you started:
+I help property owners & investors protect their money on construction, renovation & insurance projects. I work on the owner's side of the table.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Books
+**Scammed: You Work, They Take** is a plain spoken case for the FairTax.
+
+**Run the Insurance Job** is a playbook for property owners managing an insurance claim. Get it here: https://justinsteubs.gumroad.com/l/insurance-job
+
+## Find me
+Website: https://justinsteubs.com
+
+X: https://x.com/justinsteubs
